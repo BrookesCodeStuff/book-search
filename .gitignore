@@ -1,4 +1,4 @@
 .DS_Store
 node_modules/
-routes_old/
-controlers_old/
+/server/routes_old/
+/server/controllers_old/
